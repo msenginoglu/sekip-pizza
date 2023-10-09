@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa586702.css",
-    "main.js": "/static/js/main.2d355f0f.js",
-    "index.html": "/index.html",
-    "main.aa586702.css.map": "/static/css/main.aa586702.css.map",
-    "main.2d355f0f.js.map": "/static/js/main.2d355f0f.js.map"
+    "main.css": "/sekip-pizza/static/css/main.aa586702.css",
+    "main.js": "/sekip-pizza/static/js/main.2d355f0f.js",
+    "index.html": "/sekip-pizza/index.html",
+    "main.aa586702.css.map": "/sekip-pizza/static/css/main.aa586702.css.map",
+    "main.2d355f0f.js.map": "/sekip-pizza/static/js/main.2d355f0f.js.map"
   },
   "entrypoints": [
     "static/css/main.aa586702.css",
